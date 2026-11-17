@@ -17,3 +17,9 @@ Before running the project, make sure you have the following installed on your m
 1. **Clone the repository:**
    `git clone https://github.com/mayarifai25-afk/techtalks-ishtirak.git`
    `cd techtalks-ishtirak`
+
+2. **Install dependencies:**
+   `npm install`
+
+3. **Run the development server:**
+   `npm run dev`
