@@ -6,7 +6,7 @@ A modern full-stack web application built for managing subscriptions and utility
 * **Framework:** Next.js (App Router, TypeScript)
 * **Styling:** Tailwind CSS
 * **Database :** PostgreSQL 
-* **Features:** Tesseract.js for OCR meter reading
+
 
 ##  Prerequisites & Version Requirements
 Before running the project, make sure you have the following installed on your machine:
