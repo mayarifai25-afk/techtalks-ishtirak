@@ -5,7 +5,7 @@ A modern full-stack web application built for managing subscriptions and utility
 ## 🚀 Tech Stack
 * **Framework:** Next.js (App Router, TypeScript)
 * **Styling:** Tailwind CSS
-* **Database & ORM:** PostgreSQL 
+* **Database :** PostgreSQL 
 * **Features:** Tesseract.js for OCR meter reading
 
 ## 📋 Prerequisites & Version Requirements
